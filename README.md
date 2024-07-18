@@ -41,3 +41,10 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 ![Screenshot (298)](https://github.com/user-attachments/assets/64fb82cc-6309-4a32-96fb-740caf6bee87)
 
 
+# Added feature 
+Dark mode, all codes beautified and added comments.
+By: Deepak Kumar
+GitHub: https://github.com/CodeWith-Deepak
+This is just a small friendly contribution made by me.
+Thank you.
+Keep Coding, Keep Growing.
